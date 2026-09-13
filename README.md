@@ -236,4 +236,4 @@ This repository serves as the official landing page for iNet Parchis. The softwa
 **Get the most recent version of iNet Parchis today!**
 
 ---
-**Last updated:** 2026-09-13 17:17:39 UTC
+**Last updated:** 2026-09-13 20:23:13 UTC
